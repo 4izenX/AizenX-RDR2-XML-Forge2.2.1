@@ -1,0 +1,31 @@
+﻿:root {
+  --ax-bg: #07080B;
+  --ax-surface-1: #0D0F14;
+  --ax-surface-2: #14171F;
+  --ax-surface-3: #1C202A;
+  --ax-text: #F4F5F8;
+  --ax-muted: #9AA0AE;
+  --ax-muted-2: #6C7280;
+  --ax-crimson: #E11D2E;
+  --ax-crimson-hot: #F13040;
+  --ax-crimson-deep: #B3121F;
+  --ax-brass: #C8A96A;
+  --ax-success: #22C55E;
+  --ax-warning: #F59E0B;
+  --ax-error: #FF4D4D;
+  --ax-info: #60A5FA;
+  --ax-border: rgba(255,255,255,.10);
+  --ax-border-soft: rgba(255,255,255,.06);
+  --ax-radius-card: 12px;
+  --ax-radius-control: 8px;
+  --ax-space-1: 8px;
+  --ax-space-2: 16px;
+  --ax-space-3: 24px;
+  --ax-shadow-soft: 0 12px 36px rgba(0,0,0,.28);
+  --ax-motion-fast: 120ms;
+  --ax-motion-page: 200ms;
+  --ax-ease-premium: cubic-bezier(.22,1,.36,1);
+  --ax-font-ui: "Inter", "Segoe UI Variable", sans-serif;
+  --ax-font-display: "Space Grotesk", "Segoe UI Variable Display", sans-serif;
+  --ax-font-mono: "JetBrains Mono", "Cascadia Mono", monospace;
+}

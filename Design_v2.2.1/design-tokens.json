@@ -1,0 +1,52 @@
+﻿{
+  "color": {
+    "bg": "#07080B",
+    "surface1": "#0D0F14",
+    "surface2": "#14171F",
+    "surface3": "#1C202A",
+    "text": "#F4F5F8",
+    "muted": "#9AA0AE",
+    "muted2": "#6C7280",
+    "crimson": "#E11D2E",
+    "crimsonHot": "#F13040",
+    "crimsonDeep": "#B3121F",
+    "brass": "#C8A96A",
+    "success": "#22C55E",
+    "warning": "#F59E0B",
+    "error": "#FF4D4D",
+    "info": "#60A5FA",
+    "border": "rgba(255,255,255,0.10)",
+    "borderSoft": "rgba(255,255,255,0.06)"
+  },
+  "type": {
+    "ui": "Inter / Segoe UI Variable",
+    "display": "Space Grotesk / Segoe UI Variable Display",
+    "mono": "JetBrains Mono / Cascadia Mono",
+    "scale": [
+      11,
+      12,
+      14,
+      16,
+      20,
+      28
+    ]
+  },
+  "spacing": [
+    8,
+    16,
+    24,
+    32
+  ],
+  "radius": {
+    "control": 8,
+    "card": 12
+  },
+  "motion": {
+    "fastMs": 120,
+    "pageMs": 200,
+    "easing": "cubic-bezier(0.22,1,0.36,1)"
+  },
+  "shadow": {
+    "soft": "0 12px 36px rgba(0,0,0,0.28)"
+  }
+}
