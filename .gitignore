@@ -1,0 +1,36 @@
+# Build output
+bin/
+obj/
+
+# Local third-party build references
+BuildRefs/*.dll
+BuildRefs/*.pdb
+
+# IDE/editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Debug / local runtime state
+*.log
+*.dmp
+*.tmp
+*.bak
+*.cache
+
+# Compiled/release artifacts
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
